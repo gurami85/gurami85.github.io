@@ -1,7 +1,11 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Research Professor
+    company: Kyonggi University
+    affiliation: Division of Computer Science and Engineering
+    period: Mar. 2018 – Present
+    description:
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Post-Doctoral Fellow
+    company: Kyonggi University
+    affiliation: Collaboration Technology Research Lab.
+    period: Apr. 2017 – Feb. 2018
+    description: 
