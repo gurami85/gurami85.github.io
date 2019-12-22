@@ -15,7 +15,7 @@ github_username:  gurami85
 codepen_username:  mattcouchman
 email_address: hahn@kgu.ac.kr
 future: true
-timezone: TIMEZONE
+timezone: Asia/Seoul
 
 # Build settings
 markdown: kramdown
