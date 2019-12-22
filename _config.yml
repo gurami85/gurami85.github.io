@@ -1,19 +1,19 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
-email: email@domain.com
+title: Hyun Ahn
+email: hahn@kgu.ac.kr
 description: Jekyll Resume is a mega simple resume theme for Jekyll.
 baseurl: ""
 url: "http://mattcouchman.co.uk/jekyll-resume"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
+name: Hyun Ahn
+job: Research Professor at Kyonggi University
+location: Gyeonggi, South Korea
+languages: Java, C, Python, JSP, and Javascript
 twitter_username: mattcouchman
-github_username:  mattcouchman
+github_username:  gurami85
 codepen_username:  mattcouchman
-email_address: some@email.com
+email_address: hahn@kgu.ac.kr
 
 # Build settings
 markdown: kramdown
