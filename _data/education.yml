@@ -1,14 +1,15 @@
--   qualification: Ph.D. in Computer Science
-    school: Kyonggi University
-    year: 2017
-    description:
+-   degree: Ph.D. in Computer Science
+    university: Kyonggi University, 2017
+    dissertation: Dissertation: An Incremental Mining Framework for Process-aware Enterprise Social Networks
+    advisor: Prof. Kwanghoon Pio Kim
+    gpa: 4.31 / 4.5
 
--   qualification: M.S. in Computer Science
-    school: Kyonggi University
-    year: 2013
-    description:
+-   degree: M.S. in Computer Science
+    university: Kyonggi University, 2013
+    dissertation: Dissertation: A Framework for Workflow-based Affiliation Network Discovery and Analysis
+    advisor: Prof. Kwanghoon Pio Kim
+    gpa: 4.31 / 4.5
 
--   qualification: B.S. in Computer Science
-    school: Kyonggi University
-    year: 2011
-    description:
+-   degree: B.S. in Computer Science
+    university: Kyonggi University, 2011
+    gpa: 3.33 / 4.5
