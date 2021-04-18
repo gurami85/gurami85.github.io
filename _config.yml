@@ -18,5 +18,9 @@ email_address: hahn@kgu.ac.kr
 future: true
 timezone: Asia/Seoul
 
-# Build settings
+# Conversion
 markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
